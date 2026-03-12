@@ -61,9 +61,9 @@ The triangle cba now represents the velocity diagram of the mechanism.
 
 
 ## Output
-<img width="996" height="490" alt="Screenshot 2026-03-12 135441" src="https://github.com/user-attachments/assets/61c70f67-7503-4c35-8efd-372e56ef28e1" />
+![WhatsApp Image 2026-03-12 at 14 38 40](https://github.com/user-attachments/assets/edd4269e-6095-4be8-8f32-6d3caa6a6c29)
+![WhatsApp Image 2026-03-12 at 14 38 29](https://github.com/user-attachments/assets/5eecee17-71a7-436f-8a23-39d26fa1c42c)
 
-<img width="981" height="670" alt="image" src="https://github.com/user-attachments/assets/a9ebba72-c782-46db-bb38-4404a1816273" />
 
 
 
