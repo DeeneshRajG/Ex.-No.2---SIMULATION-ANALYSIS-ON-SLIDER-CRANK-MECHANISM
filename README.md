@@ -33,6 +33,9 @@ Mark the point of intersection as A.
 ### 4.Complete the configuration diagram
 Join B and A with a straight line using a ruler.
 The configuration diagram is now completed.
+![WhatsApp Image 2026-03-12 at 14 12 00](https://github.com/user-attachments/assets/54dc7c7a-f7f0-4d7a-80d7-26bf3335aef1)
+
+
 
 
 ## Velocity diagram
